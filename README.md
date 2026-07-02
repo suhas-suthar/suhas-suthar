@@ -1,9 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Suhas Suthar</h1>
-  <h3 align="center">Web Designer & Full-Cycle WordPress Developer</h3>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Full-Cycle+WordPress+Developer;Technical+SEO+%26+Schema+Expert;cPanel+%26+Server+Migration+Specialist;Frontend+Engineer+(UI%2FUX)" alt="Typing SVG" />
-  </p>
+  <!-- PREMIUM GRADIENT CARD HEADER -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhas+Suthar;Web+Designer+%26+Full-Cycle+WordPress+Developer;Technical+SEO+%26+Schema+Expert;Frontend+Engineer+(UI%2FUX)" alt="Suhas Suthar Profile Header" />
+
   <p align="center">
     <b>🟢 Status:</b> Available for Premium Freelance Projects & Full-Time Roles | ⚡ <b>Response Time:</b> &lt; 24 Hours
   </p>
