@@ -124,7 +124,7 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
-### European & German Markets (`.de` / `.com` / `.eu`)
+#### European & German Markets (`.de` / `.com` / `.eu`)
 
 <table width="100%">
   <tr>
@@ -268,7 +268,7 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
-#### <img src="https://api.iconify.design/twemoji:flag-united-states.svg" width="20" height="20" style="vertical-align: middle;" /> <img src="https://api.iconify.design/twemoji:flag-canada.svg" width="20" height="20" style="vertical-align: middle;" /> North American Corporate Market (`.com` / `.ca` / `.me`)
+#### North American Corporate Market (`.com` / `.ca` / `.me`)
 
 <table width="100%">
   <tr>
@@ -295,7 +295,7 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
-#### <img src="https://api.iconify.design/twemoji:flag-united-arab-emirates.svg" width="20" height="20" style="vertical-align: middle;" /> Middle East & UAE Platforms (`.ae`)
+#### Middle East & UAE Platforms (`.ae`)
 
 <table width="100%">
   <tr>
@@ -312,7 +312,7 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
-#### <img src="https://api.iconify.design/twemoji:flag-india.svg" width="20" height="20" style="vertical-align: middle;" /> Domestic & Global E-Commerce Ventures (`.in` / `.com`)
+#### Domestic & Global E-Commerce Ventures (`.in` / `.com`)
 
 <table width="100%">
   <tr>
