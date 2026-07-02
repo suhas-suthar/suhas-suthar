@@ -47,69 +47,44 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 #### 🧰 Tech Stack & Core Tools
 
 ##### 🌐 1. No-Code & E-commerce CMS
-* **WordPress**
-* **Wix**
-* **Shopify**
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,wix,shopify" alt="CMS Skills" height="50" />
+    <img src="https://skillicons.dev/icons?i=wordpress,wix,shopify" alt="CMS" height="50" />
   </a>
 </p>
 
 ##### 💻 2. Front-End & Back-End Development
-* **HTML5 / CSS3**
-* **JavaScript (JS) & jQuery**
-* **Bootstrap (Responsive Design)**
-* **PHP**
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php" alt="Dev Skills" height="50" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php" alt="Development" height="50" />
   </a>
 </p>
 
 ##### 🎨 3. UI/UX & Graphic Design
-* **Adobe Photoshop**
-* **Photopea**
-* **Canva**
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,photopea,canva" alt="Design Skills" height="50" />
+    <img src="https://skillicons.dev/icons?i=ps,photopea,canva" alt="Design" height="50" />
   </a>
 </p>
 
 ##### 🗄️ 4. Web Hosting & Database Management
-* **cPanel Administration**
-* **Web Server Management**
-* **PHP Database Management (MySQL)**
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpanel,nginx,mysql" alt="Hosting & DB Skills" height="50" />
+    <img src="https://skillicons.dev/icons?i=cpanel,nginx,mysql" alt="Hosting & Database" height="50" />
   </a>
 </p>
 
 ##### 📈 5. SEO (Search Engine Optimization) & Content Marketing
-* **Tools:** Google Search Console
-* **Off-Page SEO & Link Building:** Backlinks, Social Bookmarking, Business Listing, Classified Listing, Directories, Profile Creation
-* **Content Distribution:** Blog Posting, Article Listing, PDF Posting, Image Posting
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=google,codepen,wordpress" alt="SEO Skills" height="50" />
+    <img src="https://skillicons.dev/icons?i=google,link,seo" alt="SEO & Marketing" height="50" />
   </a>
 </p>
 
 ##### 🤖 6. AI & Productivity Tools (Prompt Engineering)
-* **ChatGPT**
-* **Claude**
-* **Gemini**
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=chatgpt,anthropic,gemini" alt="AI Tools" height="50" />
+    <img src="https://skillicons.dev/icons?i=chatgpt,bot,ai" alt="AI Tools" height="50" />
   </a>
 </p>
 
