@@ -2,7 +2,7 @@
 <h3 align="center">Web Designer & Full-Cycle WordPress Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Full-Cycle+WordPress+Developer;Technical+SEO+%26+Schema+Expert;cPanel+%26+Server+Migration+Specialist;Frontend+Engineer+(UI%2FUX)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Full-Cycle+WordPress+Developer;Technical+SEO+%26+Schema+Expert;cPanel+%26+Server+Migration+Specialist;Frontend+Engineer+(UI%2FUX)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,16 +25,16 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ### 🛠️ Technical Expertise & Core Skills
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <b>🚀 Core Development</b><br/>
       • WordPress Development (Custom Themes & Plugins)<br/>
       • Frontend Engineering (HTML5, CSS3, JavaScript, jQuery, Bootstrap)<br/>
       • UI/UX Wireframe Transformation & Responsive Design<br/>
       • Cross-Browser Testing & Device Responsiveness
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <b>⚙️ Backend & SEO Engineering</b><br/>
       • Technical SEO (FAQ Schema Insertion & Metadata Management)<br/>
       • Server Operations & Full cPanel Migrations<br/>
@@ -263,7 +263,6 @@ A curated collection of live production platforms deployed across North America,
     <td style="border: none;"></td>
   </tr>
 </table>
-
 
 #### North American Corporate Market (`.com` / `.ca` / `.me`)
 
