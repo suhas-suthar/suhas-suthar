@@ -95,8 +95,10 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 </p>
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhas-suthar&theme=juice&margin-w=5&margin-h=5&column=4" alt="Suhas's GitHub Trophies" />
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suahs-suthar&theme=onedark" alt="Suhas's GitHub Trophies" />
+  </a>
 </p>
 
 ---
