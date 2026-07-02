@@ -373,16 +373,6 @@ A curated collection of live production platforms deployed across North America,
     <td style="border: none;"></td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhas-suthar&show_icons=true&theme=juice" alt="Suhas's GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhas-suthar&theme=juice" alt="GitHub Streak" height="160" />
-</p>
-
 ---
 <p align="center">
 📍 Located in Ahmedabad, Gujarat, India • Open for Strategic Technical Collaborations
