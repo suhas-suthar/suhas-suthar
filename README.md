@@ -46,46 +46,36 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 #### 🧰 Tech Stack & Core Tools
 
-##### 🌐 1. No-Code & E-commerce CMS
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,wix,shopify" alt="CMS" height="50" />
-  </a>
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,jquery,bootstrap,php,mysql,ps,figma&perline=10" />
 </p>
 
-##### 💻 2. Front-End & Back-End Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php" alt="Development" height="50" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Server-1E293B?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL_Admin-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
 </p>
 
-##### 🎨 3. UI/UX & Graphic Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,photopea,canva" alt="Design" height="50" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content_Marketing-FF5722?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Link_Building-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blog_Posting-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDF_Posting-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Image_Posting-5C2D91?style=for-the-badge&logo=googlephotos&logoColor=white" />
 </p>
 
-##### 🗄️ 4. Web Hosting & Database Management
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpanel,nginx,mysql" alt="Hosting & Database" height="50" />
-  </a>
-</p>
-
-##### 📈 5. SEO (Search Engine Optimization) & Content Marketing
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=google,link,seo" alt="SEO & Marketing" height="50" />
-  </a>
-</p>
-
-##### 🤖 6. AI & Productivity Tools (Prompt Engineering)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=chatgpt,bot,ai" alt="AI Tools" height="50" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ### 🏆 GitHub Trophies
