@@ -264,7 +264,6 @@ A curated collection of live production platforms deployed across North America,
   </tr>
 </table>
 
----
 
 #### North American Corporate Market (`.com` / `.ca` / `.me`)
 
@@ -291,8 +290,6 @@ A curated collection of live production platforms deployed across North America,
   </tr>
 </table>
 
----
-
 #### Middle East & UAE Platforms (`.ae`)
 
 <table width="100%">
@@ -307,8 +304,6 @@ A curated collection of live production platforms deployed across North America,
     </td>
   </tr>
 </table>
-
----
 
 #### Domestic & Global E-Commerce Ventures (`.in` / `.com`)
 
@@ -371,6 +366,8 @@ A curated collection of live production platforms deployed across North America,
     <td style="border: none;"></td>
   </tr>
 </table>
+
+---
 
 ### 🎯 Services I Provide
 
