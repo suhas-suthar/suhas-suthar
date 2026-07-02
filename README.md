@@ -48,40 +48,40 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ##### 🌐 1. No-Code & E-commerce CMS
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="46" height="46" style="margin: 0 20px 0 0;" />
-  <img src="https://api.iconify.design/logos:wix.svg" alt="Wix" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://api.iconify.design/logos:shopify.svg" alt="Shopify" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/logos:wix.svg" alt="Wix" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/logos:shopify.svg" alt="Shopify" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
 ##### 💻 2. Front-End & Back-End Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin: 0 20px 0 0;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
 ##### 🎨 3. UI/UX & Graphic Design
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin: 0 20px 0 0;" />
-  <img src="https://api.iconify.design/simple-icons:photopea.svg?color=%2351b9aa" alt="Photopea" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/simple-icons:photopea.svg?color=%2351b9aa" alt="Photopea" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
 ##### 🗄️ 4. Web Hosting & Database Management
 <p align="left">
-  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin: 0 20px 0 0;" />
-  <img src="https://api.iconify.design/carbon:server-dns.svg?color=%234285F4" alt="Web Server Management" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/carbon:server-dns.svg?color=%234285F4" alt="Web Server Management" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
 ##### 📈 5. SEO & Content Marketing
 <p align="left">
-  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin: 0 20px 0 0;" />
-  <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23008080" alt="Off-Page SEO" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://api.iconify.design/mdi:newspaper-variant-outline.svg?color=%23FF6C2C" alt="Content Distribution" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23008080" alt="Off-Page SEO" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/mdi:newspaper-variant-outline.svg?color=%23FF6C2C" alt="Content Distribution" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
 > 🔗 **Off-Page SEO:** Backlinks, Social Bookmarking, Business/Classified Listings, Directories, Profile Creation  
@@ -89,9 +89,9 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ##### 🤖 6. AI & Productivity Tools (Prompt Engineering)
 <p align="left">
-  <img src="https://api.iconify.design/logos:openai-icon.svg" alt="ChatGPT" width="46" height="46" style="margin: 0 20px 0 0;" />
-  <img src="https://api.iconify.design/logos:claude.svg" alt="Claude" width="46" height="46" style="margin: 0 20px;" />
-  <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://api.iconify.design/logos:openai-icon.svg" alt="ChatGPT" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/logos:claude.svg" alt="Claude" width="46" height="46" style="margin-right: 28px;" />
+  <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
 ### 🏆 GitHub Trophies
