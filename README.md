@@ -47,24 +47,45 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 #### 🧰 Tech Stack & Core Tools
 
 <p align="left">
-  <!-- Frontend & Core Dev -->
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511F2.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <!-- Development -->
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://woocommerce.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="50" height="50" style="margin-right: 15px;" />
+  </a>
 </p>
 
 <p align="left">
-  <!-- Technical SEO & Infrastructure -->
-  <img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
-  <img src="https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Wordfence-Hw?style=for-the-badge&logo=wordfence&logoColor=red" alt="Wordfence" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" />
+  <!-- Systems & Tools -->
+  <a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="Google Search Console" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://cpanel.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" alt="cPanel" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.wordfence.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wordfence/wordfence-icon.svg" alt="Wordfence" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50" style="margin-right: 15px;" />
+  </a>
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
