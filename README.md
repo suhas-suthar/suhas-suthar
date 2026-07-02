@@ -46,36 +46,52 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 #### 🧰 Tech Stack & Core Tools
 
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,jquery,bootstrap,php,mysql,ps,figma&perline=10" />
+##### 🌐 1. No-Code & E-commerce CMS
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="46" height="46" style="margin: 0 20px 0 0;" />
+  <img src="https://api.iconify.design/logos:wix.svg" alt="Wix" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://api.iconify.design/logos:shopify.svg" alt="Shopify" width="46" height="46" style="margin: 0 20px;" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Server-1E293B?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL_Admin-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+##### 💻 2. Front-End & Back-End Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin: 0 20px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin: 0 20px;" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Content_Marketing-FF5722?style=for-the-badge&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Link_Building-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blog_Posting-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDF_Posting-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image_Posting-5C2D91?style=for-the-badge&logo=googlephotos&logoColor=white" />
+##### 🎨 3. UI/UX & Graphic Design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin: 0 20px 0 0;" />
+  <img src="https://api.iconify.design/simple-icons:photopea.svg?color=%2351b9aa" alt="Photopea" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="46" height="46" style="margin: 0 20px;" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+##### 🗄️ 4. Web Hosting & Database Management
+<p align="left">
+  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin: 0 20px 0 0;" />
+  <img src="https://api.iconify.design/carbon:server-dns.svg?color=%234285F4" alt="Web Server Management" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin: 0 20px;" />
+</p>
+
+##### 📈 5. SEO & Content Marketing
+<p align="left">
+  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin: 0 20px 0 0;" />
+  <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23008080" alt="Off-Page SEO" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://api.iconify.design/mdi:newspaper-variant-outline.svg?color=%23FF6C2C" alt="Content Distribution" width="46" height="46" style="margin: 0 20px;" />
+</p>
+
+> 🔗 **Off-Page SEO:** Backlinks, Social Bookmarking, Business/Classified Listings, Directories, Profile Creation  
+> 📝 **Content Distribution:** Blog Posting, Article Listing, PDF & Image Posting
+
+##### 🤖 6. AI & Productivity Tools (Prompt Engineering)
+<p align="left">
+  <img src="https://api.iconify.design/logos:openai-icon.svg" alt="ChatGPT" width="46" height="46" style="margin: 0 20px 0 0;" />
+  <img src="https://api.iconify.design/logos:claude.svg" alt="Claude" width="46" height="46" style="margin: 0 20px;" />
+  <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin: 0 20px;" />
 </p>
 
 ### 🏆 GitHub Trophies
