@@ -120,31 +120,259 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ### 🚀 Live Global Projects Portfolio
 
-#### 🇪🇺 European & German Markets (`.de`)
-*   **Yachtcharter Aquamare** ➔ [yachtcharter-aquamare.de](https://www.yachtcharter-aquamare.de) | **Werbellinsee Charter** ➔ [werbellinsee-charter.de](https://werbellinsee-charter.de)  
-    *Premium yacht booking systems with complex forms, lazy-loaded visual assets, and high responsiveness conversions.*
-*   **Logopaedie Pfeil** ➔ [logopaedie-pfeil.de](https://www.logopaedie-pfeil.de) | **Schnarch Stopp** ➔ [schnarch-stopp.de](https://www.schnarch-stopp.de)  
-    *Clinical portals optimizing local lead capture pipelines and structured schema metadata.*
-*   **Marina Buchholz** ➔ [marina-buchholz.de](http://marina-buchholz.de) | **Nano Pictures** ➔ [nanopictures.de](https://nanopictures.de)  
-    *Creative media portfolios utilizing smooth frontend transitions and cross-device scaling layouts.*
-*   **Gourmet Plaza** ➔ [gourmetplaza.de](https://gourmetplaza.de) | **Asiamoon** ➔ [asiamoon.de](https://asiamoon.de) | **Weltlodge** ➔ [weltlodge.de](https://weltlodge.de)  
-    *Hospitality, lifestyle, and delivery portals engineered for fast mobile rendering and secure server routing.*
+A curated collection of live production platforms deployed across North America, Europe, the Middle East, and Asia. Designed with pixel-perfect responsiveness, secure cPanel/server migrations, and strict technical SEO engineering.
+
+---
+
+#### 🇪🇺 European & German Markets (`.de` / `.com` / `.eu`)
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      🌐 **Yachtcharter Aquamare** — <a href="https://www.yachtcharter-aquamare.de">yachtcharter-aquamare.de</a><br/>
+      <sub>Premium Yacht Booking System & Lead Pipelines</sub>
+    </td>
+    <td width="50%">
+      🌐 **Charter-Line** — <a href="https://charter-line.de">charter-line.de</a><br/>
+      <sub>Logistics, Rental Systems & High-Conversion Layouts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Tourbier Fotografie** — <a href="https://www.tourbierfotografie.de">tourbierfotografie.de</a><br/>
+      <sub>Creative Media Portfolio & Custom Fluid Transitions</sub>
+    </td>
+    <td>
+      🌐 **Marina Buchholz** — <a href="http://marina-buchholz.de">marina-buchholz.de</a><br/>
+      <sub>Hospitality Portal & Mobile Rendering Optimization</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Riverside Bingen** — <a href="https://riverside-bingen.de">riverside-bingen.de</a><br/>
+      <sub>Real Estate & Premium UI/UX Wireframe Match</sub>
+    </td>
+    <td>
+      🌐 **SEO You** — <a href="http://seo-you.de">seo-you.de</a><br/>
+      <sub>Agency Platform, Metadata Architecture & Schema Insertion</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Sea House** — <a href="https://seahouse.de">seahouse.de</a><br/>
+      <sub>Hospitality & Core Web Vitals Tuning</sub>
+    </td>
+    <td>
+      🌐 **Nano Pictures** — <a href="https://nanopictures.de">nanopictures.de</a><br/>
+      <sub>Creative Portfolio & Cross-Device Layout Scaling</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Logopaedie Pfeil** — <a href="https://www.logopaedie-pfeil.de">logopaedie-pfeil.de</a><br/>
+      <sub>Clinical Portal & Secure Lead Capture Infrastructure</sub>
+    </td>
+    <td>
+      🌐 **Schnarch-Stopp** — <a href="https://www.schnarch-stopp.de">schnarch-stopp.de</a><br/>
+      <sub>Medical E-Commerce & Secure Transaction Routing</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **KH Trömel (Privat)** — <a href="https://kh-troemel.de/privat/">kh-troemel.de/privat</a><br/>
+      <sub>Corporate Profile & Private Asset Optimization</sub>
+    </td>
+    <td>
+      🌐 **KH Trömel (Gewerbe)** — <a href="https://kh-troemel.de/gewerbe/">kh-troemel.de/gewerbe</a><br/>
+      <sub>Commercial Business Directory & High Performance Loading</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Weltlodge** — <a href="https://weltlodge.de">weltlodge.de</a><br/>
+      <sub>Bespoke Travel, Hospitality & Secure Routing</sub>
+    </td>
+    <td>
+      🌐 **Nano Fotobox** — <a href="https://nano-fotobox.de">nano-fotobox.de</a><br/>
+      <sub>Interactive UI & Modern Micro-Service Layout</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Nahe Bar** — <a href="http://nahebar.de/">nahebar.de</a><br/>
+      <sub>Lifestyle Portal & Clean Typography Setup</sub>
+    </td>
+    <td>
+      🌐 **Gourmet Plaza** — <a href="https://gourmetplaza.de">gourmetplaza.de</a><br/>
+      <sub>Food Ordering, Fast Mobile Rendering & Delivery Engine</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Weingut Martin** — <a href="https://weingutmartin.de">weingutmartin.de</a><br/>
+      <sub>E-Commerce Showcase & Fine Typography Controls</sub>
+    </td>
+    <td>
+      🌐 **Berliner Bootschaft** — <a href="https://berlinerbootschaft.de">berlinerbootschaft.de</a><br/>
+      <sub>Maritime Rental System & Dynamic Booking Architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Asiamoon** — <a href="https://asiamoon.de">asiamoon.de</a><br/>
+      <sub>Culinary Brand, Metadata Tuning & Image Optimization</sub>
+    </td>
+    <td>
+      🌐 **Werbellinsee Charter** — <a href="https://werbellinsee-charter.de">werbellinsee-charter.de</a><br/>
+      <sub>Tourism/Yacht Portal & Responsive Component Layout</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Craftroom Red Fox** — <a href="https://www.craftroomredfox.com">craftroomredfox.com</a><br/>
+      <sub>Niche E-Commerce Store & Secure Payment Gateways</sub>
+    </td>
+    <td>
+      🌐 **Gänz** — <a href="https://www.gaenz.com">gaenz.com</a><br/>
+      <sub>Brand Showcase, HTML5/CSS3 Clean Hand-Crafted Code</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Peth Shop** — <a href="https://www.peth-shop.de/">peth-shop.de</a><br/>
+      <sub>Retail E-Commerce, Inventory Configurations & Speed Boost</sub>
+    </td>
+    <td>
+      🌐 **Denkmal Zukunft** — <a href="https://www.denkmalzukunft.com/">denkmalzukunft.com</a><br/>
+      <sub>Consulting Portal & Core Technical Web Enhancements</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Colentes** (🇨🇭 Switzerland) — <a href="https://www.colentes.com">colentes.com</a><br/>
+      <sub>Enterprise Biotech Showcase & Multi-Device Compatibility</sub>
+    </td>
+    <td>
+      🌐 **Curio Biotech** (🇨🇭 Switzerland) — <a href="https://curiobiotech.com">curiobiotech.com</a><br/>
+      <sub>Corporate Life Sciences Architecture & Clean Schema Setup</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Cerrajeros Garcia** (🇪🇸 Spain) — <a href="https://cerrajerosgarcia.com">cerrajerosgarcia.com</a><br/>
+      <sub>On-Demand Service Portal & Optimized Lead Capture Map</sub>
+    </td>
+    <td style="border: none;"></td>
+  </tr>
+</table>
+
+---
+
+#### 🇺🇸 🇨🇦 North American Corporate Market (`.com` / `.ca` / `.me`)
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      🌐 **Euroview** — <a href="https://www.euroview.com">euroview.com</a><br/>
+      <sub>B2B Enterprise Portal & Fully Responsive Design Tuning</sub>
+    </td>
+    <td width="50%">
+      🌐 **Interact Financial** — <a href="https://interactfinancial.ca">interactfinancial.ca</a><br/>
+      <sub>Financial Solutions Layout built with UI/UX Absolute Precision</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Plan Your Future** — <a href="https://planyourfuture.me">planyourfuture.me</a><br/>
+      <sub>Educational Consulting Workspace & Fast Mobile Loading</sub>
+    </td>
+    <td>
+      🌐 **LRS Private Wealth** — <a href="https://www.lrsprivatewealth.com">lrsprivatewealth.com</a><br/>
+      <sub>Wealth Management Engine & Strict Secure Project Protocols</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 #### 🇦🇪 Middle East & UAE Platforms (`.ae`)
-*   **Astraum** ➔ [astraum.ae](https://astraum.ae) | **Astraum Digital** ➔ [astraumdigital.ae](https://astraumdigital.ae)  
-    *High-converting corporate landing pages and tech agency footprints featuring advanced typography and customized UI styling.*
 
-#### 🇨🇦 North American Corporate (`.ca`)
-*   **Interact Financial** ➔ [interactfinancial.ca](https://interactfinancial.ca)  
-    *Highly corporate layout built with absolute pixel-perfection from strict UI/UX wireframes, implementing advanced cross-browser compatibility.*
+<table width="100%">
+  <tr>
+    <td width="50%">
+      🌐 **Astraum** — <a href="https://astraum.ae">astraum.ae</a><br/>
+      <sub>High-Converting Corporate Hub & Customized Tech Styling</sub>
+    </td>
+    <td width="50%">
+      🌐 **Astraum Digital** — <a href="https://astraumdigital.ae">astraumdigital.ae</a><br/>
+      <sub>Tech Agency Footprint & Advanced UI Typography Setup</sub>
+    </td>
+  </tr>
+</table>
 
-#### 🇮🇳 Domestic & E-Commerce Ventures (`.in` / `.com`)
-*   **Sutaria Masalawala** ➔ [sutariamasalawala.com](https://www.sutariamasalawala.com)  
-    *Fully-featured e-commerce digital architecture with optimized inventory management layouts and highly secure transaction workflows.*
-*   **Kashtbhanjan Digital** ➔ [kashtbhanjandigital.com](https://www.kashtbhanjandigital.com)  
-    *Full-cycle website development workspace showcasing digital conversion structures and interactive navigation loops.*
-*   **Kankarwa Haveli** ➔ [kankarwahaveli.com](https://www.kankarwahaveli.com)  
-    *Bespoke hotel and travel platform built to emphasize structural SEO indexing and seamless customer inquiries.*
+---
+
+####  Domestic & Global E-Commerce Ventures (`.in` / `.com`)
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      🌐 **Kashtbhanjan Digital** — <a href="https://www.kashtbhanjandigital.com">kashtbhanjandigital.com</a><br/>
+      <sub>Full-Cycle Agency Portal & Interactive Navigation Loops</sub>
+    </td>
+    <td width="50%">
+      🌐 **Sutaria Masalawala** — <a href="https://www.sutariamasalawala.com">sutariamasalawala.com</a><br/>
+      <sub>Fully-Featured Retail Architecture & Optimized Inventory Engine</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Rajvi Real Estate** — <a href="https://rajvirealestate.com">rajvirealestate.com</a><br/>
+      <sub>Property Listing Engine & Dynamic Search Layouts</sub>
+    </td>
+    <td>
+      🌐 **Anytech** — <a href="https://www.anytech.co.in">anytech.co.in</a><br/>
+      <sub>IT Services Portal & Clean Technical Deployment Structure</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Kankarwa Haveli** — <a href="https://www.kankarwahaveli.com">kankarwahaveli.com</a><br/>
+      <sub>Premium Hotel Platform, SEO Indexing & Direct Inquiry Workflow</sub>
+    </td>
+    <td>
+      🌐 **Seamingly** — <a href="https://seamingly.in">seamingly.in</a><br/>
+      <sub>Fashion E-Commerce Hub & Modern Responsive Canvas Grid</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **Advocate Hansal** — <a href="https://www.advocatehansal.com">advocatehansal.com</a><br/>
+      <sub>Legal Advisory Profile, FAQ Schemas & Content Security</sub>
+    </td>
+    <td>
+      🌐 **Dr. Anup Sarda** — <a href="https://dranupsarda.com/">dranupsarda.com</a><br/>
+      <sub>Medical Specialist Hub, Clean Directory & Private Server Setup</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **The Ark Wellness** (🇸🇬 Singapore) — <a href="https://thearkwellness.com/">thearkwellness.com</a><br/>
+      <sub>Healthcare Portal & Core Optimization Architecture</sub>
+    </td>
+    <td>
+      🌐 **Taikang Healthy Fruits** (🇸🇬 Singapore) — <a href="https://taikanghealthyfruits.com">taikanghealthyfruits.com</a><br/>
+      <sub>Supply Chain Showcase, Merchant Setup & Fast Render</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌐 **EQ Coffee** — <a href="https://eqcoffee.eu">eqcoffee.eu</a><br/>
+      <sub>Premium Boutique Beverage Portal & Smooth Visual Loops</sub>
+    </td>
+    <td style="border: none;"></td>
+  </tr>
+</table>
 
 ---
 
