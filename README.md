@@ -47,44 +47,22 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 #### 🧰 Tech Stack & Core Tools
 
 <p align="left">
-  <!-- Development -->
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://woocommerce.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="50" height="50" style="margin-right: 15px;" />
-  </a>
+  <!-- Frontend & E-Commerce Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="48" height="48" style="margin: 0 12px;" />
 </p>
 
-<p align="left">
-  <!-- Systems & Tools -->
-  <a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="Google Search Console" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://cpanel.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" alt="cPanel" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.wordfence.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wordfence/wordfence-icon.svg" alt="Wordfence" width="50" height="50" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50" style="margin-right: 15px;" />
-  </a>
+<p align="left" style="margin-top: 20px;">
+  <!-- Technical SEO & Server Operations Tools -->
+  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://api.iconify.design/simple-icons:wordfence.svg?color=%238a0000" alt="Wordfence" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="48" height="48" style="margin: 0 12px;" />
 </p>
 ---
 
