@@ -6,19 +6,20 @@
 </p>
 
 <p align="center">
-  🟢 <b>Available for:</b> Premium Freelance Contracts & Full-Time Roles | ⚡ <b>Response Time:</b> &lt; 24 Hours
+  <b>🟢 Status:</b> Available for Premium Freelance Projects & Full-Time Roles | ⚡ <b>Response Time:</b> &lt; 24 Hours
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/suhasbhardwaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:suhasbhardwaj77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.suhasbhardwaj.com"><img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 📝 About Me
-I build websites that look clean and actually work seamlessly. With a strong background in computer science, I bridge the gap between creative frontend design and technical development. From writing custom code to configuring servers and optimizing sites for SEO, I focus on creating responsive, fast-loading digital spaces that solve real business problems and deliver great user experiences.
+I am a results-driven **WordPress Developer and Frontend Specialist** with over **2+ years of experience** bridging the gap between innovative user interface design and robust, secure technical development. My approach focuses on full-cycle digital execution—engineering pixel-perfect, completely mobile-responsive platforms using HTML5, CSS3, JavaScript, jQuery, and Bootstrap.
+
+Beyond front-end aesthetics, I deep-dive into backend technical architecture. I specialize in deploying high-performance e-commerce assets and informative business solutions while optimizing site speed and core web vitals. My technical focus includes managing full cPanel server operations, implementing database-level server migrations, securing sensitive client credentials, and executing rigorous cross-browser responsive audits. Furthermore, I bring dedicated expertise in Technical SEO—ensuring maximum web discoverability through custom FAQ schema structures, semantic metadata formatting, and Google Search Console data indexing. I don't just build sites that look exceptional; I architect secure, lightning-fast digital solutions tailored to solve real business bottlenecks and drive traffic.
 
 ---
 
