@@ -122,8 +122,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 A curated collection of live production platforms deployed across North America, Europe, the Middle East, and Asia. Designed with pixel-perfect responsiveness, secure cPanel/server migrations, and strict technical SEO engineering.
 
----
-
 #### European & German Markets (`.de` / `.com` / `.eu`)
 
 <table width="100%">
