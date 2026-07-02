@@ -46,53 +46,75 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 #### 🧰 Tech Stack & Core Tools
 
-##### 🌐 1. No-Code & E-commerce CMS
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/logos:wix.svg" alt="Wix" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/logos:shopify.svg" alt="Shopify" width="46" height="46" style="margin-right: 28px;" />
-</p>
-
-##### 💻 2. Front-End & Back-End Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin-right: 28px;" />
-</p>
-
-##### 🎨 3. UI/UX & Graphic Design
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/simple-icons:photopea.svg?color=%2351b9aa" alt="Photopea" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="46" height="46" style="margin-right: 28px;" />
-</p>
-
-##### 🗄️ 4. Web Hosting & Database Management
-<p align="left">
-  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/carbon:server-dns.svg?color=%234285F4" alt="Web Server Management" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin-right: 28px;" />
-</p>
-
-##### 📈 5. SEO & Content Marketing
-<p align="left">
-  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23008080" alt="Off-Page SEO" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/mdi:newspaper-variant-outline.svg?color=%23FF6C2C" alt="Content Distribution" width="46" height="46" style="margin-right: 28px;" />
-</p>
-
-> 🔗 **Off-Page SEO:** Backlinks, Social Bookmarking, Business/Classified Listings, Directories, Profile Creation  
-> 📝 **Content Distribution:** Blog Posting, Article Listing, PDF & Image Posting
-
-##### 🤖 6. AI & Productivity Tools (Prompt Engineering)
-<p align="left">
-  <img src="https://api.iconify.design/logos:openai-icon.svg" alt="ChatGPT" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/logos:claude.svg" alt="Claude" width="46" height="46" style="margin-right: 28px;" />
-  <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin-right: 28px;" />
-</p>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <!-- COLUMN 1: CATEGORY 1 -->
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h5>🌐 1. No-Code & E-commerce CMS</h5>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/logos:wix.svg" alt="Wix" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/logos:shopify.svg" alt="Shopify" width="46" height="46" style="margin-right: 28px;" />
+      </p>
+    </td>
+    <!-- COLUMN 2: CATEGORY 2 -->
+    <td width="50%" valign="top" style="border: none;">
+      <h5>💻 2. Front-End & Back-End Development</h5>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin-right: 28px;" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- COLUMN 1: CATEGORY 3 -->
+    <td width="50%" valign="top" style="border: none; padding-right: 20px; padding-top: 20px;">
+      <h5>🎨 3. UI/UX & Graphic Design</h5>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/simple-icons:photopea.svg?color=%2351b9aa" alt="Photopea" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="46" height="46" style="margin-right: 28px;" />
+      </p>
+    </td>
+    <!-- COLUMN 2: CATEGORY 4 -->
+    <td width="50%" valign="top" style="border: none; padding-top: 20px;">
+      <h5>🗄️ 4. Web Hosting & Database Management</h5>
+      <p align="left">
+        <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/carbon:server-dns.svg?color=%234285F4" alt="Web Server Management" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin-right: 28px;" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- COLUMN 1: CATEGORY 5 -->
+    <td width="50%" valign="top" style="border: none; padding-right: 20px; padding-top: 20px;">
+      <h5>📈 5. SEO & Content Marketing</h5>
+      <p align="left">
+        <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23008080" alt="Off-Page SEO" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/mdi:newspaper-variant-outline.svg?color=%23FF6C2C" alt="Content Distribution" width="46" height="46" style="margin-right: 28px;" />
+      </p>
+      <blockquote>
+        🔗 **Off-Page SEO:** Backlinks, Social Bookmarking, Business/Classified Listings, Directories, Profile Creation<br><br>
+        📝 **Content Distribution:** Blog Posting, Article Listing, PDF & Image Posting
+      </blockquote>
+    </td>
+    <!-- COLUMN 2: CATEGORY 6 -->
+    <td width="50%" valign="top" style="border: none; padding-top: 20px;">
+      <h5>🤖 6. AI & Productivity Tools (Prompt Engineering)</h5>
+      <p align="left">
+        <img src="https://api.iconify.design/logos:openai-icon.svg" alt="ChatGPT" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/logos:claude.svg" alt="Claude" width="46" height="46" style="margin-right: 28px;" />
+        <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin-right: 28px;" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
