@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Suhas Suthar</h1>
-<h3 align="center">Web Designer & Full-Cycle WordPress Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Full-Cycle+WordPress+Developer;Technical+SEO+%26+Schema+Expert;cPanel+%26+Server+Migration+Specialist;Frontend+Engineer+(UI%2FUX)" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>🟢 Status:</b> Available for Premium Freelance Projects & Full-Time Roles | ⚡ <b>Response Time:</b> &lt; 24 Hours
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suhas-bhardwaj-77b578169"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suhasbhardwaj77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Suhas Suthar</h1>
+  <h3 align="center">Web Designer & Full-Cycle WordPress Developer</h3>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Full-Cycle+WordPress+Developer;Technical+SEO+%26+Schema+Expert;cPanel+%26+Server+Migration+Specialist;Frontend+Engineer+(UI%2FUX)" alt="Typing SVG" />
+  </p>
+  <p align="center">
+    <b>🟢 Status:</b> Available for Premium Freelance Projects & Full-Time Roles | ⚡ <b>Response Time:</b> &lt; 24 Hours
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/suhas-bhardwaj-77b578169"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:suhasbhardwaj77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
@@ -25,16 +24,16 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ### 🛠️ Technical Expertise & Core Skills
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: 1px solid #30363d; padding: 15px;">
       <b>🚀 Core Development</b><br/>
       • WordPress Development (Custom Themes & Plugins)<br/>
       • Frontend Engineering (HTML5, CSS3, JavaScript, jQuery, Bootstrap)<br/>
       • UI/UX Wireframe Transformation & Responsive Design<br/>
       • Cross-Browser Testing & Device Responsiveness
     </td>
-    <td width="50%">
+    <td width="50%" style="border: 1px solid #30363d; padding: 15px;">
       <b>⚙️ Backend & SEO Engineering</b><br/>
       • Technical SEO (FAQ Schema Insertion & Metadata Management)<br/>
       • Server Operations & Full cPanel Migrations<br/>
@@ -48,7 +47,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <!-- COLUMN 1: CATEGORY 1 -->
     <td width="50%" valign="top" style="border: none; padding-right: 20px;">
       <h5>🌐 1. No-Code & E-commerce CMS</h5>
       <p align="left">
@@ -57,7 +55,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
         <img src="https://api.iconify.design/logos:shopify.svg" alt="Shopify" width="46" height="46" style="margin-right: 28px;" />
       </p>
     </td>
-    <!-- COLUMN 2: CATEGORY 2 -->
     <td width="50%" valign="top" style="border: none;">
       <h5>💻 2. Front-End & Back-End Development</h5>
       <p align="left">
@@ -71,7 +68,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
     </td>
   </tr>
   <tr>
-    <!-- COLUMN 1: CATEGORY 3 -->
     <td width="50%" valign="top" style="border: none; padding-right: 20px; padding-top: 20px;">
       <h5>🎨 3. UI/UX & Graphic Design</h5>
       <p align="left">
@@ -80,7 +76,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="46" height="46" style="margin-right: 28px;" />
       </p>
     </td>
-    <!-- COLUMN 2: CATEGORY 4 -->
     <td width="50%" valign="top" style="border: none; padding-top: 20px;">
       <h5>🗄️ 4. Web Hosting & Database Management</h5>
       <p align="left">
@@ -91,7 +86,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
     </td>
   </tr>
   <tr>
-    <!-- COLUMN 1: CATEGORY 5 -->
     <td width="50%" valign="top" style="border: none; padding-right: 20px; padding-top: 20px;">
       <h5>📈 5. SEO & Content Marketing</h5>
       <p align="left">
@@ -104,7 +98,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
         📝 **Content Distribution:** Blog Posting, Article Listing, PDF & Image Posting
       </blockquote>
     </td>
-    <!-- COLUMN 2: CATEGORY 6 -->
     <td width="50%" valign="top" style="border: none; padding-top: 20px;">
       <h5>🤖 6. AI & Productivity Tools (Prompt Engineering)</h5>
       <p align="left">
@@ -264,7 +257,6 @@ A curated collection of live production platforms deployed across North America,
   </tr>
 </table>
 
-
 #### North American Corporate Market (`.com` / `.ca` / `.me`)
 
 <table width="100%">
@@ -373,13 +365,13 @@ A curated collection of live production platforms deployed across North America,
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
       <h4>🌐 Full-Cycle Web Development</h4>
       • Custom WordPress Theme & Plugin Development<br/>
       • UI/UX Wireframe to Pixel-Perfect Responsive HTML/CSS/JS<br/>
       • E-Commerce Store Design (Shopify, Wix, WooCommerce)
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
       <h4>⚙️ Backend & Server Management</h4>
       • Secure Database-Level Server Migrations<br/>
       • Full cPanel & DNS Operations Configuration<br/>
@@ -387,13 +379,13 @@ A curated collection of live production platforms deployed across North America,
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
       <h4>📈 Technical SEO & Indexing</h4>
       • Structured FAQ Schema Insertion<br/>
       • Semantic Metadata Architecture Setup<br/>
       • Google Search Console Optimization & Fixes
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
       <h4>🤝 White-Label Agency Collaboration</h4>
       • Reliable execution for European & Global agency overflows<br/>
       • Fast turnaround under strict NDA protocols<br/>
