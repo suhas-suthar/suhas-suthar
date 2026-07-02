@@ -94,13 +94,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
   <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin-right: 28px;" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suahs-suthar&theme=onedark" alt="Suhas's GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Live Global Projects Portfolio
