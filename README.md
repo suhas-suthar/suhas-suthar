@@ -374,6 +374,41 @@ A curated collection of live production platforms deployed across North America,
   </tr>
 </table>
 
+### 🎯 Services I Provide
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Cycle Web Development</h4>
+      • Custom WordPress Theme & Plugin Development<br/>
+      • UI/UX Wireframe to Pixel-Perfect Responsive HTML/CSS/JS<br/>
+      • E-Commerce Store Design (Shopify, Wix, WooCommerce)
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Server Management</h4>
+      • Secure Database-Level Server Migrations<br/>
+      • Full cPanel & DNS Operations Configuration<br/>
+      • Site Speed Audits & Core Web Vitals Optimization
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 Technical SEO & Indexing</h4>
+      • Structured FAQ Schema Insertion<br/>
+      • Semantic Metadata Architecture Setup<br/>
+      • Google Search Console Optimization & Fixes
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 White-Label Agency Collaboration</h4>
+      • Reliable execution for European & Global agency overflows<br/>
+      • Fast turnaround under strict NDA protocols<br/>
+      • Clean, hand-crafted, maintainable codebase
+    </td>
+  </tr>
+</table>
+
+---
+
 
 <p align="center">
 📍 Located in Ahmedabad, Gujarat, India • Open for Strategic Technical Collaborations
