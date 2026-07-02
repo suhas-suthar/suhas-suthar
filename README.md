@@ -124,7 +124,7 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
-#### <img src="https://api.iconify.design/twemoji:flag-european-union.svg" width="20" height="20" style="vertical-align: middle;" /> European & German Markets (`.de` / `.com` / `.eu`)
+### <img src="https://api.iconify.design/twemoji:flag-european-union.svg" width="20" height="20" style="vertical-align: middle;" /> European & German Markets (`.de` / `.com` / `.eu`)
 
 <table width="100%">
   <tr>
