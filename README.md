@@ -93,7 +93,6 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
   <img src="https://api.iconify.design/logos:claude.svg" alt="Claude" width="46" height="46" style="margin: 0 20px;" />
   <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Gemini" width="46" height="46" style="margin: 0 20px;" />
 </p>
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
