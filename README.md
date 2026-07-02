@@ -48,40 +48,37 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ##### 🌐 1. No-Code & E-commerce CMS
 <p align="left">
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=square&logo=wordpress&logoColor=white" alt="WordPress" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Wix-000000?style=square&logo=wix&logoColor=white" alt="Wix" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=square&logo=shopify&logoColor=white" alt="Shopify" height="42" style="margin-right: 25px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,wix,shopify" alt="CMS Skills" height="50" />
+  </a>
 </p>
 
 ##### 💻 2. Front-End & Back-End Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=square&logo=html5&logoColor=white" alt="HTML5" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=square&logo=css3&logoColor=white" alt="CSS3" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black" alt="JavaScript" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=square&logo=jquery&logoColor=white" alt="jQuery" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=square&logo=php&logoColor=white" alt="PHP" height="42" style="margin-right: 25px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php" alt="Dev Skills" height="50" />
+  </a>
 </p>
 
 ##### 🎨 3. UI/UX & Graphic Design
 <p align="left">
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=square&logo=adobephotoshop&logoColor=black" alt="Adobe Photoshop" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Photopea-51B9AA?style=square&logo=photopea&logoColor=white" alt="Photopea" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=square&logo=canva&logoColor=white" alt="Canva" height="42" style="margin-right: 25px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,photopea,canva" alt="Design Skills" height="50" />
+  </a>
 </p>
 
 ##### 🗄️ 4. Web Hosting & Database Management
 <p align="left">
-  <img src="https://img.shields.io/badge/-cPanel-FF6C2C?style=square&logo=cpanel&logoColor=white" alt="cPanel" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Server-4285F4?style=square&logo=serverfault&logoColor=white" alt="Web Server" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=square&logo=mysql&logoColor=white" alt="MySQL" height="42" style="margin-right: 25px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpanel,server,mysql" alt="Hosting & DB Skills" height="50" />
+  </a>
 </p>
 
 ##### 📈 5. SEO & Content Marketing
 <p align="left">
-  <img src="https://img.shields.io/badge/-Search_Console-4285F4?style=square&logo=google&logoColor=white" alt="Google Search Console" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Off--Page_SEO-008080?style=square&logo=link&logoColor=white" alt="Off-Page SEO" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Content-FF6C2C?style=square&logo=readme&logoColor=white" alt="Content Distribution" height="42" style="margin-right: 25px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=google,link,wordpress" alt="SEO Skills" height="50" />
+  </a>
 </p>
 
 > 🔗 **Off-Page SEO:** Backlinks, Social Bookmarking, Business/Classified Listings, Directories, Profile Creation  
@@ -89,9 +86,9 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 ##### 🤖 6. AI & Productivity Tools (Prompt Engineering)
 <p align="left">
-  <img src="https://img.shields.io/badge/-ChatGPT-74AA9C?style=square&logo=openai&logoColor=white" alt="ChatGPT" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Claude-D97706?style=square&logo=anthropic&logoColor=white" alt="Claude" height="42" style="margin-right: 25px;" />
-  <img src="https://img.shields.io/badge/-Gemini-8E75FF?style=square&logo=googlegemini&logoColor=white" alt="Gemini" height="42" style="margin-right: 25px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=chatgpt,cloudflare,gemini" alt="AI Tools" height="50" />
+  </a>
 </p>
 
 ### 🏆 GitHub Trophies
