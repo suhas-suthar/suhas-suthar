@@ -44,7 +44,7 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
   </tr>
 </table>
 
-#### 🧰 Tech Stack & Core Tools
+### 🧰 Tech Stack & Core Tools
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
