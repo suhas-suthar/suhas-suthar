@@ -404,8 +404,6 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
----
-
 ### 🤝 Let's Build Something Exceptional Together!
 
 Whether you are looking to hire a reliable developer for premium freelance projects, scale your agency production with white-label support, or bring a full-time specialist onboard—let's connect.
