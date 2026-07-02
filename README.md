@@ -61,7 +61,7 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 <p align="left">
   <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin: 0 10px 0 0;" />
   <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin: 0 10px;" />
-  <img src="https://api.iconify.design/logos:wordfence.svg" alt="Wordfence" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://simpleicons.org/icons/wordfence.svg" alt="Wordfence" width="46" height="46" style="margin: 0 10px; filter: invert(21%) sepia(91%) saturate(3828%) hue-rotate(346deg) brightness(91%) contrast(98%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin: 0 10px;" />
 </p>
 ---
