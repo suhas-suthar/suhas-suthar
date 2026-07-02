@@ -404,7 +404,22 @@ A curated collection of live production platforms deployed across North America,
 
 ---
 
+---
+
+### 🤝 Let's Build Something Exceptional Together!
+
+Whether you are looking to hire a reliable developer for premium freelance projects, scale your agency production with white-label support, or bring a full-time specialist onboard—let's connect.
 
 <p align="center">
-📍 Located in Ahmedabad, Gujarat, India • Open for Strategic Technical Collaborations
+  <a href="mailto:suhasbhardwaj77@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Direct_Email-suhasbhardwaj77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Suhas" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/suhasbhardwaj">
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-Suhas_Bhardwaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>📍 Located in Ahmedabad, Gujarat, India</b> &nbsp;&bull;&nbsp; 🌍 Serving Clients Globally &nbsp;&bull;&nbsp; ⚡ <b>Response Time:</b> &lt; 24 Hours</sub>
 </p>
