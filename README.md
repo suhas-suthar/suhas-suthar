@@ -46,23 +46,23 @@ Beyond front-end aesthetics, I deep-dive into backend technical architecture. I 
 
 #### 🧰 Tech Stack & Core Tools
 
+##### 🚀 Core Development & E-Commerce
 <p align="left">
-  <!-- Frontend & E-Commerce Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="48" height="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="46" height="46" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="46" height="46" style="margin: 0 10px;" />
 </p>
 
-<p align="left" style="margin-top: 20px;">
-  <!-- Technical SEO & Server Operations Tools -->
-  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://api.iconify.design/simple-icons:wordfence.svg?color=%238a0000" alt="Wordfence" width="48" height="48" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="48" height="48" style="margin: 0 12px;" />
+##### ⚙️ Technical SEO & Server Operations
+<p align="left">
+  <img src="https://api.iconify.design/logos:google-search-console.svg" alt="Google Search Console" width="46" height="46" style="margin: 0 10px 0 0;" />
+  <img src="https://api.iconify.design/logos:cpanel.svg" alt="cPanel" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://api.iconify.design/logos:wordfence.svg" alt="Wordfence" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="46" height="46" style="margin: 0 10px;" />
 </p>
 ---
 
