@@ -123,6 +123,18 @@
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-process-dark.svg">
+  <img src="assets/h-process-light.svg" width="100%" alt="How I work">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
+  <img src="assets/process-light.svg" width="100%" alt="1. Discover — goals, audience & research · 2. Design — wireframes to polished UI · 3. Build — custom WordPress, schema & speed · 4. Launch & Optimise — deployment, Core Web Vitals & Search Console">
+</picture>
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-services-dark.svg">
   <img src="assets/h-services-light.svg" width="100%" alt="How I can help">
 </picture>
